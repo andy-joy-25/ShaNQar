@@ -4,7 +4,7 @@ ShaNQar (Simulator of Network Quantique) is a modular and customizable photonic 
 
 ## Installation
 
-Please ensure that you have a Python version of 3.10 or later installed in your computer. If you don't have it installed already, please download it from the [official Python website] (https://www.python.org/downloads/).
+Please ensure that you have a Python version of 3.10 or later installed in your computer. If you don't have it installed already, please download it from the [official Python website](https://www.python.org/downloads/).
 
 After that is done, please clone this repo and install the necessary requirements by copy-pasting the following code in your terminal:
 ```
