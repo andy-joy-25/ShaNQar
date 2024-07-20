@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows:"
+authors:\
+- family-names: "Choudhary"
+  given-names: "Anand"
+- family-names: "Wasan"
+  given-names: "Ajay"
+title: "ShaNQar: Simulator of Network Quantique"
+version: 1.0.0
+date-released: 2024-07-20
+url: "https://github.com/andy-joy-25/ShaNQar"
