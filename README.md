@@ -1,4 +1,5 @@
-![217AE993-AA7C-4129-9017-228473572DB8](https://github.com/user-attachments/assets/778b4e2b-7623-4115-b4f7-008da6f3da23)
+![image](https://github.com/user-attachments/assets/b35a82d7-0c99-468a-ae62-284faf6a3f99)
+
 
 # ShaNQar: Simulator of Network Quantique
 
