@@ -40,6 +40,13 @@ python -m src.qt.QT
 Please cite us:
 
 ```
-
+@software{Choudhary_ShaNQar_Simulator_of_2024,
+author = {Choudhary, Anand and Wasan, Ajay},
+month = jul,
+title = {{ShaNQar: Simulator of Network Quantique}},
+url = {https://github.com/andy-joy-25/ShaNQar},
+version = {1.0.0},
+year = {2024}
+}
 ```
 
