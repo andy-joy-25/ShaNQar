@@ -1,3 +1,5 @@
+![217AE993-AA7C-4129-9017-228473572DB8](https://github.com/user-attachments/assets/778b4e2b-7623-4115-b4f7-008da6f3da23)
+
 # ShaNQar: Simulator of Network Quantique
 
 ShaNQar (Simulator of Network Quantique) is a modular and customizable photonic quantum network simulator.
