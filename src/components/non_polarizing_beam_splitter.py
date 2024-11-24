@@ -133,7 +133,7 @@ class NonPolarizingBeamSplitter(Component):
         Instance method to receive and consequently, direct incoming photon(s) to attached receiver(s) depending upon the reflectance (and transmittance) of the non-polarizing beam splitter 
         
         Arguments:
-            p (photon) = Incoming Photon(s)
+            p_net (photon) = Incoming Photon(s)
         """
         
         if len(self.senders) == 1:
